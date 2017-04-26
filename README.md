@@ -34,4 +34,4 @@ Log the values into csv log file.
  $ python test_case.py
  
  ```
- 3. The Test result will produce a CSV LOG file along with status of the request
+ 3. The Test result will produce a CSV LOG file with parameters along with status of the request
