@@ -65,7 +65,8 @@ class DataliciousRequest(unittest.TestCase):
         Wait till results are shown
         Click first result from organic search
         '''
-
+        cls.driver.maximize_window()
+        cls.driver.implicitly_wait(10)
         cls.driver.get(parameters.WEBSITE_URL)
         cls.driver.find_element_by_name("q").send_keys(parameters.WEBSITE_SEARCH_TERM)
         cls.driver.find_element_by_name("q").submit()
