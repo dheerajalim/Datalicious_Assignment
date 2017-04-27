@@ -1,11 +1,11 @@
 # Chrome Driver Executable file path
 
-CHROME_EXE_PATH = "C:\Personal\Development\Python\seliniumtest\chromedriver.exe"
+CHROME_EXE_PATH = "C:\Personal\Development\Python\seliniumtest\chromedriver.exe" #Change as per the desired Path
 
 
 # Browsermob proxy server .bat file location
 
-BROWSERMOB_SERVER_PATH = r"C:\Personal\Development\Data_test\browsermob-proxy-bat\bin\browsermob-proxy"
+BROWSERMOB_SERVER_PATH = r"C:\Personal\Development\Data_test\browsermob-proxy-bat\bin\browsermob-proxy" #Change as per the desired Path
 
 # Setting the Search Process
 
