@@ -2,6 +2,14 @@
 This work is done as a part of assignment from Datalicious
 Used : Python v 3.5.1
 
+# Script Functionality
+#### test_case.py
+A Selenium Python Script to perform the Network Request and Log Parameters
+
+#### test_phantom.py
+A Selenium Python Script to perform the Network Request and Log Parameters using PhantomJS
+
+
 # Script Actions
 ### Task 1:
 Go to google.com
@@ -35,3 +43,9 @@ Log the values into csv log file.
  
  ```
  3. The Test result will produce a CSV LOG file with parameters along with status of the request
+ 4. Use test_phantom.py script to run the above task using PhantomJS
+ 
+ ```
+  $ python test_phantom.py
+  
+ ```
