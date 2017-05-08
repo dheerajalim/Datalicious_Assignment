@@ -1,5 +1,5 @@
-# Datalicious_Assignment
-This work is done as a part of assignment from Datalicious
+# Browsermob Proxy
+This python script is an example for implementing the browsermob proxy in order to get the HAR JSON file and parse the response as required
 Used : Python v 3.5.1
 
 # Script Functionality
@@ -14,7 +14,7 @@ A Selenium Python Script to perform the Network Request and Log Parameters using
 ### Task 1:
 Go to google.com
 Select search input
-Put in Datalicious
+Put in 'search teat'
 Click Search
 Wait till results are shown
 Click first result from organic search
